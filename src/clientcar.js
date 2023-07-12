@@ -11,7 +11,7 @@ const ClientDataWindow = () => {
 
   return (
     <div>
-      <h2>Datos del cliente</h2>
+      <h2>Client Data!!!</h2>
       <div className="form-group mb-2">
         <label htmlFor="clientName">Nombre del cliente:</label>
         <input
